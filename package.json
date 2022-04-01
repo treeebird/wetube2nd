@@ -1,0 +1,22 @@
+{
+  "name": "wetube-2nd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treeebird/wetube2nd.git"
+  },
+  "author": "treebird",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treeebird/wetube2nd/issues"
+  },
+  "homepage": "https://github.com/treeebird/wetube2nd#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
